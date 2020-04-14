@@ -19,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9952A7232445E2CF0020402B /* CJHModuleKit.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CJHModuleKit.h; sourceTree = "<group>"; };
 		99B2DBAE2445B3E6001E9949 /* CJHModuleKit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CJHModuleKit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		99B2DBB12445B3E6001E9949 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		99B2DBB22445B3E6001E9949 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -90,6 +91,7 @@
 				99B2DBDD2445B617001E9949 /* CJHPaymentLoadingHUD.m */,
 				99B2DBDB2445B617001E9949 /* CJHPaymentSuccessHUD.h */,
 				99B2DBDC2445B617001E9949 /* CJHPaymentSuccessHUD.m */,
+				9952A7232445E2CF0020402B /* CJHModuleKit.h */,
 			);
 			name = Huds;
 			path = ../../Classes/Huds;
