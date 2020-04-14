@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "CJHModuleKit"
-  spec.version      = "0.0.1"
+  spec.version      = "1.0.1"
   spec.summary      = "A collection of commonly used modules"
 
   # This description is used to generate tags and improve search results.
